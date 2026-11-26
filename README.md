@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hey there — I'm ayusilva75 👋
 
-<!--
-**ayusilva75/ayusilva75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting small web tools, micro-SaaS experiments, and automation scripts. Based in Paris.
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td valign="top" width="58%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Exploring local-first web apps and fast UIs
+- 📝 Writing documentation future me won't hate
+- 🛠️ Automating repetitive workflows on weekends
+- 💡 Simple architecture beats clever abstractions
+
+![LÖVE](https://img.shields.io/badge/L%C3%96VE-a855f7?style=for-the-badge) ![LAPIS](https://img.shields.io/badge/LAPIS-a855f7?style=for-the-badge) ![BUSTED](https://img.shields.io/badge/BUSTED-a855f7?style=for-the-badge) ![LUA](https://img.shields.io/badge/LUA-a855f7?style=for-the-badge)
+
+</td>
+<td valign="top" width="42%">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayusilva75&theme=dracula" alt="ayusilva75 GitHub stats" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayusilva75&theme=dracula" alt="Contribution graph" />
+
+</td>
+</tr>
+</table>
+
+<img width="420" src="https://streak-stats.demolab.com/?user=ayusilva75&theme=shades-of-purple&hide_border=true&background=0D1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="ayusilva75 streak" />
+
+#### Currently
+
+- 🎮 retro games when the build breaks
+- 📥 slowly emptying the unread tab pile
+- 🍜 hunting for the best noodles nearby
+
+---
+
+![Followers](https://img.shields.io/github/followers/ayusilva75?style=flat-square&logo=github&label=Followers&color=181717) [![GitHub](https://img.shields.io/badge/GITHUB-%40AYUSILVA75-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayusilva75)
+
+<sub>Everything here is a work in progress, including me.</sub>
